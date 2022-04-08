@@ -852,4 +852,5 @@
     <icon drawable="@drawable/parsec" package="tv.parsec.client" />
     <icon drawable="@drawable/pedulilindungi" package="com.telkom.tracencare" />
     <icon drawable="@drawable/privacy_dashboard" package="rk.android.app.privacydashboard" />
+    <icon drawable="@drawable/themed_icon_miuicamera" package="com.android.camera" />
 </icons>
